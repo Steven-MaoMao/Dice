@@ -1,1 +1,0 @@
-1d3, 1d6, 1d10, 1d100 dice simulation using javax.swing
